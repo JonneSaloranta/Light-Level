@@ -1,0 +1,8 @@
+name: LightLevel
+version: ${project.version}
+main: me.slrnt.lightlevel.LightLevel
+api-version: 1.18
+prefix: LightLevel
+authors: [ SLRNT ]
+description: Better way to see if mobs can spawn
+website: https://github.com/jonnesaloranta

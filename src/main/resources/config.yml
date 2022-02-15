@@ -1,0 +1,8 @@
+radius: 5
+lightlevel: 1
+minLightLevel: 0
+maxLightLevel: 15
+minRadius: 0
+maxRadius: 25
+maxHeightDiff: 2
+indicator: false

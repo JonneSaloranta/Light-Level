@@ -6,3 +6,15 @@ prefix: LightLevel
 authors: [ SLRNT ]
 description: Better way to see if mobs can spawn
 website: https://github.com/jonnesaloranta
+
+commands:
+  lightlevel:
+    description: Main command. Use /lightlevel help
+    usage: /lightlevel
+    permission: lightlevel.use.indicator
+    aliases: [ll,light]
+  lightlevelconfig:
+    description: Config commands
+    usage: /lightlevelconfig
+    permission: lightlevelconfig.use
+    aliases: [llc,llconfig]
